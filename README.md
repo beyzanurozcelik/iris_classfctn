@@ -1,2 +1,2 @@
 # iris_classfctn
-Iris data seti üzerine logistic regression ve svm classification modellerinin uygulanması.
+applying svm and logistic regression models on iris dataset and predicting it's kind.
